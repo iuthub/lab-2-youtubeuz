@@ -1,0 +1,37 @@
+body 
+{
+	background: #093145;
+}
+
+h1 
+{
+    color: lightskyblue;
+    text-align: center;
+	font-family: verdana;
+	font-size: 40px;
+}
+
+h2    
+{	
+	color: #9A1726;
+    text-align: left;
+	font-family: verdana;
+	font-size: 30px;
+}
+
+p 
+{
+	text-align: left;
+    color: white;
+	font-family: verdana;
+    font-size: 20px;
+}
+li
+{
+	color: white;
+}
+a
+{
+    color: red;
+	text-align: center;
+}
